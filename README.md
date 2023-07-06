@@ -31,5 +31,3 @@ After answering these questions, I visualized this data, using Tableau, in multi
 
 ## Reflection
 After looking at all the parameters I was able to understand that, though the varying temperature did play a role but, the main reason behind my sickness was actually the humidity and the wind speed. The difference in the wind speed and humidity between the 2 places was  more significant and more influential on my health as compared to the temperature.
-
-
